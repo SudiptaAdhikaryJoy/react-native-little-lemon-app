@@ -1,5 +1,5 @@
 import { AppProvider } from "./context/AppContext";
-import Navigation from "./Navigation";
+import Navigation from "./navigation/Navigation";
 
 export default function App() {
   return (
